@@ -1,0 +1,13 @@
+start time, end time, event name, event photo
+1284909900, 1284910740, Call with Mom and Dad, MomDadMe.jpg
+1284910740, 1284911040, Listening to Groove Armada, GrooveArmadaBlackLight.jpg
+1284911040, 1284911580, Watching Robert Burton's video on Being Certain (first 9-minutes), RobertBurtonBeingCertain1.png
+1284911580, 1284912300, Talking to Nick about Random ITP Stuff, nickPsaroudakis.jpg
+1284912300, 1284913620, Watching Robert Burton's video on Being Certain (9th to 29th minute), RobertBurtonBeingCertain2.png
+1284913620, 1284913680, Chocolate Time - Short Snack Break, toblerone.jpg
+1284913680, 1284913980, Watching Robert Burton's video on Being Certain (29th to 35th minute), RobertBurtonBeingCertain3.png
+1284913980, 1284915540, Watching Robert Burton's video on Being Certain (taking notes during last 20 minutes), RobertBurtonBeingCertain4
+1284915540, 1284915720, Reading Thomas Friedman's Op-ed Piece "Aren't We Clever?", TomFriedman.jpg
+1284915720, 1284916020, Solving Annoying Issues with Computer, macBookPro.png
+1284916020, 1284916680, Chatting with Jason and Taking Pictures of My Set-up, jasonAston.jpg
+1284916020, 1284917100, Reading Maureen Dowd's Op-ed Piece "Aren't We Clever?", maureenDowd.jpg
