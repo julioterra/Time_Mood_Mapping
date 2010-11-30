@@ -8,14 +8,6 @@ import processing.core.PApplet;
 import processing.core.PVector;
 
 public class DataStructure {
-	/*	PLANNED UPDATES
-	 **** 	- change array data type to an arrayList (this provides additional flexibility of not having to define array length at creation time
-	 ****  - create a variable that holds a location for use when displaying data (consider using PVector)
-	 ****  - create a function that reads the data into the array list 
-	 *  - create adjustment functions that (1) average out the data for each second; (2) normalizes the data by removing readings that distort visualization
-	 **** create a draw function that displays the data (we may want to create more than one draw function, e.g. one with a location offset) 
-	 *  - convert values into real world metrics (e.g. distance, lumens, excitement)
-	 */
 
 	// data storage variables
 	public String fieldName;
@@ -31,7 +23,7 @@ public class DataStructure {
 	public PVector dataBarDimension;
 	public static boolean dataDisplayBottom = false;			// set to true when data bars located at bottom of their allocated space
 	public static float dataBarHeightPercent = 0.9f;			// set the height of the data bars as percent of their allocated space
-	public static float textDisplayLocationPercent = 0.07f;	// set the text display location as percent of their allocated space 
+	public static float textDisplayLocationPercent = 0.07f;		// set the text display location as percent of their allocated space 
 	public static float dataLegendPosition = 0;
 	public int fieldHeight;
 	public int fieldNumber;
